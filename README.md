@@ -10,4 +10,3 @@ Some notes for those interested:
    * CV?
 * Potential updates:
    * Customize theme
-   * Site Icon

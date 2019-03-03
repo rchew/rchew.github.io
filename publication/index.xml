@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Rob Chew</title>
+    <link>rchew.github.io/publication/</link>
+    <description>Recent content in Publications on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="rchew.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supplementing a survey with respondent Twitter data to measure e-cigarette information exposure</title>
+      <link>rchew.github.io/publication/ecig-survey-twitter-compare/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>rchew.github.io/publication/ecig-survey-twitter-compare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMART: An Open Source Data Labeling Platform for Supervised Learning</title>
+      <link>rchew.github.io/publication/smart/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>rchew.github.io/publication/smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Model-Generated Household Listing in Low- and Middle-Income Countries Using Deep Learning</title>
+      <link>rchew.github.io/publication/toward-household-detection-gs/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>rchew.github.io/publication/toward-household-detection-gs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing Target Audiences of Digital Public Health Campaigns: A Computational Approach</title>
+      <link>rchew.github.io/publication/digitial-ph-campaign-compute/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/digitial-ph-campaign-compute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turning Narrative Descriptions of Individual Behavior into Network Visualization and Analysis: Example of Terrorist Group Dynamics</title>
+      <link>rchew.github.io/publication/terrorist-network/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/terrorist-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residential scene classification for gridded population sampling in developing countries using deep convolutional neural networks on satellite imagery</title>
+      <link>rchew.github.io/publication/residential-cnn-gs/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/residential-cnn-gs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underutilization and disparities in access to EGFR testing among Medicare patients with lung cancer from 2010 – 2013</title>
+      <link>rchew.github.io/publication/underutilization-egfr-lungcancer/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/underutilization-egfr-lungcancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Twitter users who tweet about e-cigarettes</title>
+      <link>rchew.github.io/publication/ecig-user-types-twitter/</link>
+      <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/ecig-user-types-twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting age groups of Twitter users based on language and metadata features</title>
+      <link>rchew.github.io/publication/predict-age-twitter/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/predict-age-twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of Twitter behavior among networks of cannabis dispensaries in California</title>
+      <link>rchew.github.io/publication/cannabis-network-twitter/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/cannabis-network-twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

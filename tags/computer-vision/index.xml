@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision on Rob Chew</title>
+    <link>rchew.github.io/tags/computer-vision/</link>
+    <description>Recent content in computer vision on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 May 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="rchew.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Residential scene classification for gridded population sampling in developing countries using deep convolutional neural networks on satellite imagery</title>
+      <link>rchew.github.io/publication/residential-cnn-gs/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/residential-cnn-gs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

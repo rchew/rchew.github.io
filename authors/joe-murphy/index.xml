@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joe Murphy on Rob Chew</title>
+    <link>rchew.github.io/authors/joe-murphy/</link>
+    <description>Recent content in Joe Murphy on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="rchew.github.io/authors/joe-murphy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supplementing a survey with respondent Twitter data to measure e-cigarette information exposure</title>
+      <link>rchew.github.io/publication/ecig-survey-twitter-compare/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>rchew.github.io/publication/ecig-survey-twitter-compare/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Morgan-Lopez on Rob Chew</title>
+    <link>rchew.github.io/authors/antonio-morgan-lopez/</link>
+    <description>Recent content in Antonio Morgan-Lopez on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="rchew.github.io/authors/antonio-morgan-lopez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing Target Audiences of Digital Public Health Campaigns: A Computational Approach</title>
+      <link>rchew.github.io/publication/digitial-ph-campaign-compute/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/digitial-ph-campaign-compute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting age groups of Twitter users based on language and metadata features</title>
+      <link>rchew.github.io/publication/predict-age-twitter/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/predict-age-twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

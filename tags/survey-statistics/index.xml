@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>survey statistics on Rob Chew</title>
+    <link>rchew.github.io/tags/survey-statistics/</link>
+    <description>Recent content in survey statistics on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="rchew.github.io/tags/survey-statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toward Model-Generated Household Listing in Low- and Middle-Income Countries Using Deep Learning</title>
+      <link>rchew.github.io/publication/toward-household-detection-gs/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>rchew.github.io/publication/toward-household-detection-gs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residential scene classification for gridded population sampling in developing countries using deep convolutional neural networks on satellite imagery</title>
+      <link>rchew.github.io/publication/residential-cnn-gs/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>rchew.github.io/publication/residential-cnn-gs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

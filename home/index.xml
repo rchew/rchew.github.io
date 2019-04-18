@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Rob Chew</title>
-    <link>rchew.github.io/home/</link>
+    <link>https://www.robchew.com/home/</link>
     <description>Recent content in Homes on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="rchew.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.robchew.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>rchew.github.io/home/slider/</link>
+      <link>https://www.robchew.com/home/slider/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/slider/</guid>
+      <guid>https://www.robchew.com/home/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>rchew.github.io/home/hero/</link>
+      <link>https://www.robchew.com/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/hero/</guid>
+      <guid>https://www.robchew.com/home/hero/</guid>
       <description>The Best Way to Create the Website You Want from Markdown (or RStudio/Jupyter)
 Build Anything with Widgets
 Star</description>
@@ -32,10 +32,10 @@ Star</description>
     
     <item>
       <title>Academic Kickstart</title>
-      <link>rchew.github.io/home/demo/</link>
+      <link>https://www.robchew.com/home/demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/demo/</guid>
+      <guid>https://www.robchew.com/home/demo/</guid>
       <description>Welcome to the Academic Kickstart template!
 Follow our Getting Started and Page Builder guides to easily personalize the template and then add your own content.
 For inspiration, check out the Markdown files which power the personal demo. The easiest way to publish your new site to the internet is with Netlify.
@@ -44,110 +44,110 @@ For inspiration, check out the Markdown files which power the personal demo. The
     
     <item>
       <title>Biography</title>
-      <link>rchew.github.io/home/about/</link>
+      <link>https://www.robchew.com/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/about/</guid>
+      <guid>https://www.robchew.com/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>rchew.github.io/home/skills/</link>
+      <link>https://www.robchew.com/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/skills/</guid>
+      <guid>https://www.robchew.com/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>rchew.github.io/home/experience/</link>
+      <link>https://www.robchew.com/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/experience/</guid>
+      <guid>https://www.robchew.com/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>rchew.github.io/home/accomplishments/</link>
+      <link>https://www.robchew.com/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/accomplishments/</guid>
+      <guid>https://www.robchew.com/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>rchew.github.io/home/posts/</link>
+      <link>https://www.robchew.com/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/posts/</guid>
+      <guid>https://www.robchew.com/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source Software</title>
-      <link>rchew.github.io/home/projects/</link>
+      <link>https://www.robchew.com/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/projects/</guid>
+      <guid>https://www.robchew.com/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>rchew.github.io/home/people/</link>
+      <link>https://www.robchew.com/home/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/people/</guid>
+      <guid>https://www.robchew.com/home/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>rchew.github.io/home/talks/</link>
+      <link>https://www.robchew.com/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/talks/</guid>
+      <guid>https://www.robchew.com/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>rchew.github.io/home/featured/</link>
+      <link>https://www.robchew.com/home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/featured/</guid>
+      <guid>https://www.robchew.com/home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>rchew.github.io/home/publications/</link>
+      <link>https://www.robchew.com/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/publications/</guid>
+      <guid>https://www.robchew.com/home/publications/</guid>
       <description> Quickly discover relevant content by filtering publications.
   </description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>rchew.github.io/home/tags/</link>
+      <link>https://www.robchew.com/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/tags/</guid>
+      <guid>https://www.robchew.com/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>rchew.github.io/home/contact/</link>
+      <link>https://www.robchew.com/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>rchew.github.io/home/contact/</guid>
+      <guid>https://www.robchew.com/home/contact/</guid>
       <description></description>
     </item>
     

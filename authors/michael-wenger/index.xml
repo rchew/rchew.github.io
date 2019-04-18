@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Wenger on Rob Chew</title>
-    <link>rchew.github.io/authors/michael-wenger/</link>
+    <link>https://www.robchew.com/authors/michael-wenger/</link>
     <description>Recent content in Michael Wenger on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Jan 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="rchew.github.io/authors/michael-wenger/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.robchew.com/authors/michael-wenger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Supplementing a survey with respondent Twitter data to measure e-cigarette information exposure</title>
-      <link>rchew.github.io/publication/ecig-survey-twitter-compare/</link>
+      <link>https://www.robchew.com/publication/ecig-survey-twitter-compare/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>rchew.github.io/publication/ecig-survey-twitter-compare/</guid>
+      <guid>https://www.robchew.com/publication/ecig-survey-twitter-compare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMART: An Open Source Data Labeling Platform for Supervised Learning</title>
-      <link>rchew.github.io/publication/smart/</link>
+      <link>https://www.robchew.com/publication/smart/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>rchew.github.io/publication/smart/</guid>
+      <guid>https://www.robchew.com/publication/smart/</guid>
       <description></description>
     </item>
     

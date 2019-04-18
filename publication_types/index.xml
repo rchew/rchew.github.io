@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Rob Chew</title>
-    <link>rchew.github.io/publication_types/</link>
+    <link>https://www.robchew.com/publication_types/</link>
     <description>Recent content in Publication_types on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jul 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="rchew.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.robchew.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1</title>
-      <link>rchew.github.io/publication_types/1/</link>
+      <link>https://www.robchew.com/publication_types/1/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>rchew.github.io/publication_types/1/</guid>
+      <guid>https://www.robchew.com/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>rchew.github.io/publication_types/2/</link>
+      <link>https://www.robchew.com/publication_types/2/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
-      <guid>rchew.github.io/publication_types/2/</guid>
+      <guid>https://www.robchew.com/publication_types/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3</title>
-      <link>rchew.github.io/publication_types/3/</link>
+      <link>https://www.robchew.com/publication_types/3/</link>
       <pubDate>Tue, 11 Dec 2018 00:00:00 -0500</pubDate>
       
-      <guid>rchew.github.io/publication_types/3/</guid>
+      <guid>https://www.robchew.com/publication_types/3/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Wittenborn on Rob Chew</title>
-    <link>rchew.github.io/authors/john-wittenborn/</link>
+    <link>https://www.robchew.com/authors/john-wittenborn/</link>
     <description>Recent content in John Wittenborn on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jul 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="rchew.github.io/authors/john-wittenborn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.robchew.com/authors/john-wittenborn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Turning Narrative Descriptions of Individual Behavior into Network Visualization and Analysis: Example of Terrorist Group Dynamics</title>
-      <link>rchew.github.io/publication/terrorist-network/</link>
+      <link>https://www.robchew.com/publication/terrorist-network/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>rchew.github.io/publication/terrorist-network/</guid>
+      <guid>https://www.robchew.com/publication/terrorist-network/</guid>
       <description></description>
     </item>
     

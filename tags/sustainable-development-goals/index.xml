@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sustainable development goals on Rob Chew</title>
-    <link>rchew.github.io/tags/sustainable-development-goals/</link>
+    <link>https://www.robchew.com/tags/sustainable-development-goals/</link>
     <description>Recent content in sustainable development goals on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="rchew.github.io/tags/sustainable-development-goals/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.robchew.com/tags/sustainable-development-goals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Toward Model-Generated Household Listing in Low- and Middle-Income Countries Using Deep Learning</title>
-      <link>rchew.github.io/publication/toward-household-detection-gs/</link>
+      <link>https://www.robchew.com/publication/toward-household-detection-gs/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>rchew.github.io/publication/toward-household-detection-gs/</guid>
+      <guid>https://www.robchew.com/publication/toward-household-detection-gs/</guid>
       <description></description>
     </item>
     

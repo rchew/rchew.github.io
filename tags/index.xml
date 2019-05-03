@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.robchew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CRNA</title>
+      <link>https://www.robchew.com/tags/crna/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/crna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EGFR testing</title>
@@ -23,7 +32,7 @@
     <item>
       <title>GIS</title>
       <link>https://www.robchew.com/tags/gis/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/gis/</guid>
       <description></description>
@@ -44,6 +53,15 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anesthesia</title>
+      <link>https://www.robchew.com/tags/anesthesia/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/anesthesia/</guid>
       <description></description>
     </item>
     
@@ -98,6 +116,24 @@
       <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/e-cigarettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geography</title>
+      <link>https://www.robchew.com/tags/geography/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health services research</title>
+      <link>https://www.robchew.com/tags/health-services-research/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/health-services-research/</guid>
       <description></description>
     </item>
     

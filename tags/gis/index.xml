@@ -6,10 +6,19 @@
     <description>Recent content in GIS on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.robchew.com/tags/gis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Anesthesia Staffing Models and Geographic Prevalence Post-Medicare CRNA/Physician Exemption Policy</title>
+      <link>https://www.robchew.com/publication/nursing-geographic-prevalence/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/nursing-geographic-prevalence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Toward Model-Generated Household Listing in Low- and Middle-Income Countries Using Deep Learning</title>

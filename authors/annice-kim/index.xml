@@ -38,5 +38,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Predicting age groups of Twitter users based on language and metadata features</title>
+      <link>https://www.robchew.com/publication/predict-age-twitter/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/predict-age-twitter/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

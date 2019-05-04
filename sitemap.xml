@@ -510,7 +510,7 @@
     <url>
     
       <loc>https://www.robchew.com/tags/nlp/</loc>
-      <lastmod>2018-07-10T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-11T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -675,6 +675,15 @@
     
     <url>
     
+      <loc>https://www.robchew.com/tags/active-learning/</loc>
+      <lastmod>2018-12-11T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/authors/admin/</loc>
       <priority>0</priority>
     </url>
@@ -720,7 +729,7 @@
     <url>
     
       <loc>https://www.robchew.com/tags/data-visualization/</loc>
-      <lastmod>2018-07-10T00:00:00-04:00</lastmod>
+      <lastmod>2018-12-11T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -801,7 +810,7 @@
     <url>
     
       <loc>https://www.robchew.com/tags/machine-learning/</loc>
-      <lastmod>2018-11-16T00:00:00-05:00</lastmod>
+      <lastmod>2018-12-11T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -811,6 +820,15 @@
     
       <loc>https://www.robchew.com/tags/public-health-campaigns/</loc>
       <lastmod>2018-07-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/tags/reliability-statistcs/</loc>
+      <lastmod>2018-12-11T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

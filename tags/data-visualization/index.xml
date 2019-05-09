@@ -6,10 +6,19 @@
     <description>Recent content in data visualization on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.robchew.com/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interactive visualization to facilitate monitoring longitudinal survey data and paradata</title>
+      <link>https://www.robchew.com/publication/atd-dashboard/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/atd-dashboard/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SMART: An Open Source Data Labeling Platform for Supervised Learning</title>

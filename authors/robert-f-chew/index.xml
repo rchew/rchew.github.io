@@ -6,10 +6,19 @@
     <description>Recent content in **Robert F Chew** on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.robchew.com/authors/robert-f-chew/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Public Health Impact of Different Microbiological Criteria Approaches for Salmonella in Chicken Parts</title>
+      <link>https://www.robchew.com/publication/salmonella-chicken-parts/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/salmonella-chicken-parts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SMART: An Open Source Data Labeling Platform for Supervised Learning</title>
@@ -98,15 +107,6 @@
       <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/publication/cannabis-network-twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Public Health Impact of Different Microbiological Criteria Approaches for Salmonella in Chicken Parts</title>
-      <link>https://www.robchew.com/publication/salmonella-chicken-parts/</link>
-      <pubDate>Mon, 05 Jun 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://www.robchew.com/publication/salmonella-chicken-parts/</guid>
       <description></description>
     </item>
     

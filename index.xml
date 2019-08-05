@@ -6,8 +6,17 @@
     <description>Recent content in Rob Chew on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Making Evidence Actionable: Interactive Dashboards, Bayes, and Health Care Innovation</title>
+      <link>https://www.robchew.com/publication/bayes-meta-dash/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/bayes-meta-dash/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Public Health Impact of Different Microbiological Criteria Approaches for Salmonella in Chicken Parts</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 26 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/publication/ecig-user-types-twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting age groups of Twitter users based on language and metadata features</title>
-      <link>https://www.robchew.com/publication/predict-age-twitter/</link>
-      <pubDate>Tue, 29 Aug 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://www.robchew.com/publication/predict-age-twitter/</guid>
       <description></description>
     </item>
     

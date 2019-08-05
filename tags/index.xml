@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.robchew.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian</title>
+      <link>https://www.robchew.com/tags/bayesian/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/bayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CRNA</title>
@@ -41,7 +50,7 @@
     <item>
       <title>Medicare</title>
       <link>https://www.robchew.com/tags/medicare/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/medicare/</guid>
       <description></description>
@@ -129,9 +138,18 @@
     </item>
     
     <item>
+      <title>data science</title>
+      <link>https://www.robchew.com/tags/data-science/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>data visualization</title>
       <link>https://www.robchew.com/tags/data-visualization/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/data-visualization/</guid>
       <description></description>
@@ -156,6 +174,15 @@
     </item>
     
     <item>
+      <title>evidence</title>
+      <link>https://www.robchew.com/tags/evidence/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/evidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>food safety</title>
       <link>https://www.robchew.com/tags/food-safety/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 -0400</pubDate>
@@ -174,9 +201,18 @@
     </item>
     
     <item>
+      <title>health care innovation</title>
+      <link>https://www.robchew.com/tags/health-care-innovation/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/tags/health-care-innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>health services research</title>
       <link>https://www.robchew.com/tags/health-services-research/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/health-services-research/</guid>
       <description></description>

@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://www.robchew.com/publication/micropem-biking/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/publication/bayes-meta-dash/</loc>
       <lastmod>2019-08-05T00:00:00-04:00</lastmod>
     </url>
@@ -165,7 +173,7 @@
     <url>
     
       <loc>https://www.robchew.com/authors/robert-f.-chew/</loc>
-      <lastmod>2019-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -183,7 +191,7 @@
     <url>
     
       <loc>https://www.robchew.com/publication_types/2/</loc>
-      <lastmod>2019-08-05T00:00:00-04:00</lastmod>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,6 +324,15 @@
     
     <url>
     
+      <loc>https://www.robchew.com/authors/cara-smith/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/authors/caroline-kery/</loc>
       <lastmod>2019-04-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -362,6 +379,15 @@
     
       <loc>https://www.robchew.com/authors/daniel-becker/</loc>
       <lastmod>2018-03-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/authors/darby-jack/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -524,6 +550,15 @@
     
       <loc>https://www.robchew.com/authors/john-wittenborn/</loc>
       <lastmod>2018-07-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/authors/jonathan-thornburg/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -791,7 +826,16 @@
     <url>
     
       <loc>https://www.robchew.com/publication/</loc>
-      <lastmod>2019-08-05T00:00:00-04:00</lastmod>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/authors/qiang-yang/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -806,7 +850,7 @@
     <url>
     
       <loc>https://www.robchew.com/</loc>
-      <lastmod>2019-08-05T00:00:00-04:00</lastmod>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -816,6 +860,15 @@
     
       <loc>https://www.robchew.com/authors/safaa-amer/</loc>
       <lastmod>2018-11-16T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/authors/steven-chillrud/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -923,6 +976,15 @@
     <url>
     
       <loc>https://www.robchew.com/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/tags/air-pollution/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1056,6 +1118,15 @@
     
     <url>
     
+      <loc>https://www.robchew.com/tags/exposure-assessment/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/tags/food-safety/</loc>
       <lastmod>2019-06-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -1110,6 +1181,15 @@
     
     <url>
     
+      <loc>https://www.robchew.com/tags/human-activity-recognition/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/tags/information-exposure/</loc>
       <lastmod>2019-01-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -1138,7 +1218,7 @@
     <url>
     
       <loc>https://www.robchew.com/tags/machine-learning/</loc>
-      <lastmod>2019-05-20T00:00:00-04:00</lastmod>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1292,6 +1372,15 @@
     
       <loc>https://www.robchew.com/tags/tobacco-control/</loc>
       <lastmod>2019-05-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/tags/wearable-sensors/</loc>
+      <lastmod>2019-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

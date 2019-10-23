@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exposure assessment on Rob Chew</title>
+    <link>https://www.robchew.com/tags/exposure-assessment/</link>
+    <description>Recent content in exposure assessment on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.robchew.com/tags/exposure-assessment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Identification of Bicycling Periods Using the MicroPEM Personal Exposure Monitor</title>
+      <link>https://www.robchew.com/publication/micropem-biking/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/micropem-biking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

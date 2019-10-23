@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.robchew.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Identification of Bicycling Periods Using the MicroPEM Personal Exposure Monitor</title>
+      <link>https://www.robchew.com/publication/micropem-biking/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/micropem-biking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Making Evidence Actionable: Interactive Dashboards, Bayes, and Health Care Innovation</title>

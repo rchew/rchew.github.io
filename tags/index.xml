@@ -41,7 +41,7 @@
     <item>
       <title>GIS</title>
       <link>https://www.robchew.com/tags/gis/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/gis/</guid>
       <description></description>
@@ -59,9 +59,18 @@
     <item>
       <title>NLP</title>
       <link>https://www.robchew.com/tags/nlp/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAVs</title>
+      <link>https://www.robchew.com/tags/uavs/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.robchew.com/tags/uavs/</guid>
       <description></description>
     </item>
     
@@ -147,6 +156,33 @@
     </item>
     
     <item>
+      <title>convolutional neural networks</title>
+      <link>https://www.robchew.com/tags/convolutional-neural-networks/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.robchew.com/tags/convolutional-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crop analytics</title>
+      <link>https://www.robchew.com/tags/crop-analytics/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.robchew.com/tags/crop-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crop mapping</title>
+      <link>https://www.robchew.com/tags/crop-mapping/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.robchew.com/tags/crop-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>data annotation</title>
       <link>https://www.robchew.com/tags/data-annotation/</link>
       <pubDate>Sat, 02 Mar 2019 12:34:44 -0500</pubDate>
@@ -176,7 +212,7 @@
     <item>
       <title>deep learning</title>
       <link>https://www.robchew.com/tags/deep-learning/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/deep-learning/</guid>
       <description></description>
@@ -185,7 +221,7 @@
     <item>
       <title>e-cigarettes</title>
       <link>https://www.robchew.com/tags/e-cigarettes/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/e-cigarettes/</guid>
       <description></description>
@@ -302,7 +338,7 @@
     <item>
       <title>international development</title>
       <link>https://www.robchew.com/tags/international-development/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/international-development/</guid>
       <description></description>
@@ -320,7 +356,7 @@
     <item>
       <title>machine learning</title>
       <link>https://www.robchew.com/tags/machine-learning/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/machine-learning/</guid>
       <description></description>
@@ -392,7 +428,7 @@
     <item>
       <title>remote sensing</title>
       <link>https://www.robchew.com/tags/remote-sensing/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/remote-sensing/</guid>
       <description></description>
@@ -408,9 +444,18 @@
     </item>
     
     <item>
+      <title>smallholder systems</title>
+      <link>https://www.robchew.com/tags/smallholder-systems/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.robchew.com/tags/smallholder-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>social media</title>
       <link>https://www.robchew.com/tags/social-media/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/tags/social-media/</guid>
       <description></description>
@@ -473,7 +518,7 @@
     <item>
       <title>tobacco control</title>
       <link>https://www.robchew.com/tags/tobacco-control/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/tags/tobacco-control/</guid>
       <description></description>

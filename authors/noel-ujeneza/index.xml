@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noel Ujeneza on Rob Chew</title>
+    <link>https://www.robchew.com/authors/noel-ujeneza/</link>
+    <description>Recent content in Noel Ujeneza on Rob Chew</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.robchew.com/authors/noel-ujeneza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Neural Networks and Transfer Learning for Food Crop Identification in UAV Images</title>
+      <link>https://www.robchew.com/publication/uav-crops-rwanda/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://www.robchew.com/publication/uav-crops-rwanda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

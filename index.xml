@@ -6,8 +6,17 @@
     <description>Recent content in Rob Chew on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Worldwide Population Estimates for Small Geographic Areas: Can We Do A Better Job?</title>
+      <link>https://www.robchew.com/publication/worldwide-pop-est/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/worldwide-pop-est/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Neural Networks and Transfer Learning for Food Crop Identification in UAV Images</title>
@@ -132,15 +141,6 @@
       <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://www.robchew.com/publication/digitial-ph-campaign-compute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turning Narrative Descriptions of Individual Behavior into Network Visualization and Analysis: Example of Terrorist Group Dynamics</title>
-      <link>https://www.robchew.com/publication/terrorist-network/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://www.robchew.com/publication/terrorist-network/</guid>
       <description></description>
     </item>
     

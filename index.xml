@@ -6,8 +6,17 @@
     <description>Recent content in Rob Chew on Rob Chew</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Collecting and using always-on location data in surveys</title>
+      <link>https://www.robchew.com/publication/passive-data/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.robchew.com/publication/passive-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Worldwide Population Estimates for Small Geographic Areas: Can We Do A Better Job?</title>
@@ -132,15 +141,6 @@
       <pubDate>Fri, 16 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>https://www.robchew.com/publication/toward-household-detection-gs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing Target Audiences of Digital Public Health Campaigns: A Computational Approach</title>
-      <link>https://www.robchew.com/publication/digitial-ph-campaign-compute/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://www.robchew.com/publication/digitial-ph-campaign-compute/</guid>
       <description></description>
     </item>
     

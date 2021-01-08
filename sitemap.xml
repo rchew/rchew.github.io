@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://www.robchew.com/publication/passive-data/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/publication/worldwide-pop-est/</loc>
       <lastmod>2020-09-04T00:00:00-04:00</lastmod>
     </url>
@@ -180,7 +188,7 @@
     <url>
     
       <loc>https://www.robchew.com/authors/robert-f-chew/</loc>
-      <lastmod>2020-09-04T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -207,7 +215,7 @@
     <url>
     
       <loc>https://www.robchew.com/publication_types/2/</loc>
-      <lastmod>2020-02-26T00:00:00-05:00</lastmod>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -305,7 +313,7 @@
     <url>
     
       <loc>https://www.robchew.com/authors/</loc>
-      <lastmod>2020-09-04T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -521,6 +529,15 @@
     
       <loc>https://www.robchew.com/authors/georgiy-bobashev/</loc>
       <lastmod>2018-07-10T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/authors/herschel-sanders/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -923,7 +940,7 @@
     <url>
     
       <loc>https://www.robchew.com/publication/</loc>
-      <lastmod>2020-09-04T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -947,7 +964,7 @@
     <url>
     
       <loc>https://www.robchew.com/</loc>
-      <lastmod>2020-09-04T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -964,8 +981,26 @@
     
     <url>
     
+      <loc>https://www.robchew.com/authors/robert-furberg/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/authors/safaa-amer/</loc>
       <lastmod>2020-09-04T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/authors/stephanie-eckman/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1368,6 +1403,15 @@
     
     <url>
     
+      <loc>https://www.robchew.com/tags/location-data/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://www.robchew.com/tags/lung-cancer/</loc>
       <lastmod>2018-03-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -1397,6 +1441,15 @@
     
       <loc>https://www.robchew.com/tags/microsimulation/</loc>
       <lastmod>2019-06-05T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/tags/mobile-surveys/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1504,7 +1557,7 @@
     <url>
     
       <loc>https://www.robchew.com/tags/survey-methodology/</loc>
-      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1541,6 +1594,15 @@
     
       <loc>https://www.robchew.com/tags/tobacco-control/</loc>
       <lastmod>2019-05-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://www.robchew.com/tags/unsupervised-learning/</loc>
+      <lastmod>2020-10-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
